@@ -1,4 +1,11 @@
-[![Groupsun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Groupsun)](https://github.com/anuraghazra/github-readme-stats)
+# Hi, I am [SunnyChen](https://www.sunnychen.top/about)
+
+- 🔭 I’m currently working as a CPU design Engineer, mostly play around with RISC-V
+- 🌱 I’m currently learning processor front-end designs (such as branch prediction) and cache related things (such as hardware prefetch)
+
+## Things I code with
+
+![](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![](https://img.shields.io/badge/-Cpp-F09820?style=flat-square&logo=cplusplus&logoColor=white) ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff) ![](https://img.shields.io/badge/-SystemVerilog-E61845?style=flat-square) ![](https://img.shields.io/badge/-TCL-A100FF?style=flat-square)
 
 <!--
 **Groupsun/Groupsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
