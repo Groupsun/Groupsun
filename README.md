@@ -7,7 +7,7 @@
 
 ![](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![](https://img.shields.io/badge/-Cpp-F09820?style=flat-square&logo=cplusplus&logoColor=white) ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff) ![](https://img.shields.io/badge/-SystemVerilog-E61845?style=flat-square) ![](https://img.shields.io/badge/-TCL-A100FF?style=flat-square)
 
-## How to reach me:
+## How to reach me
 
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:ruohui.chen@outlook.com) [![](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/CptSunnyChen) [![](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100013729483257) [![](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/sunnychencrh) [![](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cptsunnychen)
 
