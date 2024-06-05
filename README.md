@@ -5,7 +5,7 @@
 
 ## Things I code with
 
-![](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![](https://img.shields.io/badge/-Cpp-F09820?style=flat-square&logo=cplusplus&logoColor=white) ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff) ![](https://img.shields.io/badge/-SystemVerilog-E61845?style=flat-square) ![](https://img.shields.io/badge/-TCL-A100FF?style=flat-square)
+![](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![](https://img.shields.io/badge/-Cpp-F09820?style=flat-square&logo=cplusplus&logoColor=white) ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff) ![](https://img.shields.io/badge/-SystemVerilog-E61845?style=flat-square) ![](https://img.shields.io/badge/-TCL-A100FF?style=flat-square)
 
 ## How to reach me
 
